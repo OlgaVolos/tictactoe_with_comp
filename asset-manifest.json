@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OlgaVolos/tictactoe_with_comp/static/css/main.66fb05a3.css",
+    "main.js": "/OlgaVolos/tictactoe_with_comp/static/js/main.78b0e712.js",
+    "static/js/787.a6f54df4.chunk.js": "/OlgaVolos/tictactoe_with_comp/static/js/787.a6f54df4.chunk.js",
+    "index.html": "/OlgaVolos/tictactoe_with_comp/index.html",
+    "main.66fb05a3.css.map": "/OlgaVolos/tictactoe_with_comp/static/css/main.66fb05a3.css.map",
+    "main.78b0e712.js.map": "/OlgaVolos/tictactoe_with_comp/static/js/main.78b0e712.js.map",
+    "787.a6f54df4.chunk.js.map": "/OlgaVolos/tictactoe_with_comp/static/js/787.a6f54df4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66fb05a3.css",
+    "static/js/main.78b0e712.js"
+  ]
+}
