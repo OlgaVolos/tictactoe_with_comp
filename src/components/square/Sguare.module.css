@@ -1,0 +1,22 @@
+.square{
+    height: 100px;
+    width: 100px;
+    background: #a5c041;
+    box-sizing: border-box;
+
+    border: 2px solid white ;
+    font-size: 5em;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+@media (max-width: 400px) {
+    .square {
+        height: 70px;
+        width: 70px;
+
+        font-size: 3em;
+    }
+}

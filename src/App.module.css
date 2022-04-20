@@ -1,0 +1,22 @@
+body{
+  background: #308a25;
+  color: white;
+}
+
+.main{
+  width: 300px;
+  margin: 50px auto 0;
+}
+.main h1{
+  text-align: center;
+}
+
+@media (max-width: 400px) {
+  .main{
+    width: 210px;
+    margin: 50px auto 0;
+  }
+  .main h1{
+    font-size: 20px;
+  }
+}

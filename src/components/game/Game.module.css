@@ -1,0 +1,31 @@
+.game{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-family: 'Arial', sans-serif;
+}
+.game_info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+.button{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+@media (max-width: 400px) {
+    .game {
+        gap: 5px;
+    }
+    .game__info {
+        height: 200px;
+    }
+}
+
+p, h3 {
+    padding: 0;
+    margin: 0;
+    line-height: 30px;
+}
